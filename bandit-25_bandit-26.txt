@@ -1,0 +1,3 @@
+s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
+
+catatan: The shell for user bandit26 is not /bin/bash
