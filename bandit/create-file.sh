@@ -7,6 +7,8 @@ for i in $(seq -w 0 32); do
     
     # Buat file dengan nama sesuai format
     filename="bandit-${i}_bandit-${j}.txt"
-    touch "$filename"
+    user_num=$((10#$i + 1))  # Hilangkan leading zero untuk user
+    echo "user      : bandit$user_num" >> "$filename"
+    echo "password  : " >> "$filename"
     echo "File created: $filename"
 done

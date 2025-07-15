@@ -1,1 +1,2 @@
-kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+user        : bandit16
+password    : kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx

@@ -1,1 +1,2 @@
-EeoULMCra2q0dSkYj561DX7s1CpBuOBt
+user        : bandit21
+password    : EeoULMCra2q0dSkYj561DX7s1CpBuOBt

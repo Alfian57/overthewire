@@ -1,1 +1,2 @@
-MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+user        : bandit14
+password    : MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS

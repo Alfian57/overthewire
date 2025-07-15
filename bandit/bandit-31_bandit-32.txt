@@ -1,1 +1,2 @@
-3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K
+user        : bandit32
+password    : 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K

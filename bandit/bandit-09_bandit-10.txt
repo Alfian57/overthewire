@@ -1,1 +1,2 @@
-FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+user        : bandit10
+password    : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

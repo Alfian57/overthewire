@@ -1,1 +1,2 @@
-dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+user        : bandit8
+password    : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

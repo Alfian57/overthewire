@@ -1,1 +1,2 @@
-0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+user        : bandit20
+password    : 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
