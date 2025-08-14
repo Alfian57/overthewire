@@ -1,2 +1,0 @@
-user      : natas1
-password  : 

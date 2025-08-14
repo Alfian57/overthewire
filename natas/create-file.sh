@@ -6,8 +6,8 @@ for i in $(seq -w 0 33); do
     j=$(printf "%02d" $((10#$i + 1)))
     
     # Buat file dengan nama sesuai format
-    filename="natas-${i}_natas-${j}.txt"
-    user_num=$((10#$i + 1))  # Hilangkan leading zero untuk user
+    filename="level-${i}_level-${j}.txt"
+    user_num=$((10#$i + 2))  # Hilangkan leading zero untuk user
     echo "user      : natas$user_num" >> "$filename"
     echo "password  : " >> "$filename"
     echo "File created: $filename"
